@@ -46,3 +46,12 @@ b
 	text-align: center;
 	color: white;
 }
+
+
+#final_result
+{
+	border-radius: 20px;
+	border-color: black;
+	padding: 5px;
+	margin-top: 10px;
+}
